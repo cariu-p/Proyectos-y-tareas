@@ -1,0 +1,40 @@
+C:\Users\David\source\repos\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.exe.config
+C:\Users\David\source\repos\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.exe
+C:\Users\David\source\repos\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.pdb
+C:\Users\David\source\repos\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.Form1.resources
+C:\Users\David\source\repos\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.Properties.Resources.resources
+C:\Users\David\source\repos\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.GenerateResource.cache
+C:\Users\David\source\repos\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.exe
+C:\Users\David\source\repos\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.pdb
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.exe.config
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.exe
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.pdb
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.AssemblyReference.cache
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.Form1.resources
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.Properties.Resources.resources
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.GenerateResource.cache
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.CoreCompileInputs.cache
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.exe
+E:\Cuarto semestre ITSS\Adm y Org de Datos\Unidad 3\Programas\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.pdb
+C:\Users\carlo\Downloads\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.exe.config
+C:\Users\carlo\Downloads\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.exe
+C:\Users\carlo\Downloads\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.pdb
+C:\Users\carlo\Downloads\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.Form1.resources
+C:\Users\carlo\Downloads\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.Properties.Resources.resources
+C:\Users\carlo\Downloads\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.exe
+C:\Users\carlo\Downloads\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.pdb
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.exe
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\bin\Debug\GenerarArchivoXML.pdb
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.Form1.resources
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.exe
+C:\Users\carlo\OneDrive\Escritorio\Proyecto MAY\GenerarArchivoXML\obj\Debug\GenerarArchivoXML.pdb
